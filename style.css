@@ -16,8 +16,9 @@ html,head,body {
   margin: 0;
   padding: 0;
   font-size: 25px;
-  background-color: #626562;
-  color: white;
+  background-color: #357EC7;
+  color: black;
+  
 }
 .nav ul {
   margin: 0;
