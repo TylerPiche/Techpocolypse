@@ -9,7 +9,7 @@
 * {
   box-sizing: border-box;
   font-family: Raleway;
-  
+
 }
 
 html,head,body {
@@ -18,7 +18,7 @@ html,head,body {
   font-size: 25px;
   background-color: #357EC7;
   color: black;
-  
+
 }
 .nav ul {
   margin: 0;
@@ -80,6 +80,59 @@ html,head,body {
   font-size: 4em;
 }
 
+.about-poem {
+  margin-left: 15px;
+  margin: 50px;
+
+}
+.about-book {
+  margin-top: 60px;
+  margin-left: 15px;
+}
+.about-book a {
+  text-decoration: none;
+  font-style: italic;
+  color: white;
+}
+.about-book a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+.about-poem a {
+  text-decoration: none;
+  font-style: italic;
+  color: white;
+}
+.about-poem a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+.about-movie a {
+  text-decoration: none;
+  font-style: italic;
+  color: white;
+}
+.about-movie a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+.about-movie {
+  margin-top: 50px;
+}
+.poem-image {
+  width: 300px;
+  float: left;
+  margin: 15px;
+  margin-top: 30px;
+}
+.book-image {
+  width: 140px;
+  float: right;
+  margin-bottom: 30px;
+}
+.movie-image {
+  width: 140px;
+  float: left;
+  margin: 30px;
+}
+
 .content-section {
   margin: 1em;
 }
@@ -110,6 +163,14 @@ html,head,body {
   width: 350px;
   margin: 15px;
 }
+.light {
+    height: 300px;
+}
+.car {
+    width: 475px;
+    height: 300px;
+}
+
 
 .main-footer {
   background-image: url("Images/circuit.jpg");
@@ -358,19 +419,3 @@ html,head,body {
   margin: 40px auto 80px auto;
   font-size: 1.75em;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
